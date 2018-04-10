@@ -1,2 +1,4 @@
 User-Agent: *
 Disallow: 
+Sitemap: https://yummy-blog.herokuapp.com/sitemap.xml
+
