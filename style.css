@@ -439,7 +439,7 @@ li {
 -------------------- */
 
 .logo_area .yummy-logo {
-    font-family: 'Shadows Into Light Two', cursive;
+   font-family: 'Fredericka the Great', cursive;
     font-size: 60px;
     margin-bottom: 0;
     padding: 35px 0 20px 0;
@@ -1486,4 +1486,37 @@ li {
 	z-index: 99999;
 	color: #fff;
 	cursor: pointer;
+}
+#bg{
+    background: url(./img/img1.jpeg);
+    background-size: cover;
+}
+
+#article_week{
+font-family: "Yanone Kaffeesatz";
+letter-spacing: 2px;
+font-size: 30px;
+
+font-weight: 100;
+}
+
+.container_1{
+    height: 30vh;
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+#line{
+    border: 1px solid black;
+}
+
+
+.post-headline{
+    font-family:'Lora';
+    text-transform: uppercase;
+    font-weight: 100;
+font-style: italic;
+    
 }
