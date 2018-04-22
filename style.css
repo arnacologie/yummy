@@ -1596,3 +1596,18 @@ align-items: center;
     margin-top: 100px;
     text-align: center;
 }
+
+
+.contact_kng{
+font-family:"Yanone Kaffeesatz";
+    text-transform: uppercase;
+    font-weight: 100;
+    letter-spacing: 4px;
+    text-align: center;
+    /*color: #fc6c3f;*/
+
+}
+
+.map{
+    width: 100%;
+}
