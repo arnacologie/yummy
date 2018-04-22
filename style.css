@@ -445,6 +445,7 @@ li {
     padding: 35px 0 20px 0;
     display: inline-block;
     color: #232d37;
+    
 }
 
 .navbar.navbar-expand-lg {
@@ -1490,6 +1491,7 @@ li {
 #bg{
     background: url(./img/img1.jpeg);
     background-size: cover;
+    height: 50vh;
 }
 
 #article_week{
@@ -1514,9 +1516,31 @@ align-items: center;
 
 
 .post-headline{
-    font-family:'Lora';
+    font-family:"Yanone Kaffeesatz";
     text-transform: uppercase;
     font-weight: 100;
-font-style: italic;
+    letter-spacing: 4px;
+
+
     
+}
+
+.button {
+    /*background-color: #4CAF50; /* Green */
+    border: 2px solid #fc6c3f;
+    color: black;
+    padding: 5px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background: white;
+    cursor: pointer;
+    margin-top: 25px;
+   
+}
+
+
+.button:hover{
+    background: #fc6c3f;
 }
